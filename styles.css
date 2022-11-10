@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 10%;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+}
+
+#text {
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
